@@ -1,12 +1,12 @@
 [submodule "donut"]
 	path = donut
-	url = https://github.com/NVIDIAGameWorks/donut.git
+	url = https://github.com/r2d2Proton/donut.git
 [submodule "NRD"]
 	path = NRD
-	url = https://github.com/NVIDIAGameWorks/RayTracingDenoiser.git
+	url = https://github.com/r2d2Proton/RayTracingDenoiser.git
 [submodule "DLSS"]
 	path = DLSS
-	url = https://github.com/NVIDIA/DLSS.git
+	url = https://github.com/r2d2Proton/DLSS.git
 [submodule "RTXGI"]
 	path = RTXGI
-	url = https://github.com/NVIDIAGameWorks/RTXGI.git
+	url = https://github.com/r2d2Proton/RTXGI.git
