@@ -1,12 +1,16 @@
 [submodule "donut"]
 	path = donut
 	url = https://github.com/r2d2Proton/donut.git
+	branch = main
 [submodule "NRD"]
 	path = NRD
 	url = https://github.com/r2d2Proton/RayTracingDenoiser.git
+	branch = main
 [submodule "DLSS"]
 	path = DLSS
 	url = https://github.com/r2d2Proton/DLSS.git
+	branch = main
 [submodule "RTXGI"]
 	path = RTXGI
 	url = https://github.com/r2d2Proton/RTXGI.git
+	branch = main
